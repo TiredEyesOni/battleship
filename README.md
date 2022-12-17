@@ -4,6 +4,7 @@
 
 A game of battle ship where the player tries to sink all of the opponent's ships.
 
+<a href="https://htmlpreview.github.io/?https://github.com/TiredEyesOni/battleship/blob/main/dist/index.html" target="_blank">Live</a>
 # Project
 
 This project was build on the TDD principle (Test Driven Development)
